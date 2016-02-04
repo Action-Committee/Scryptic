@@ -8,8 +8,7 @@ scryptic - a hybrid scrypt PoW + PoS based cryptocurrency.
 * Balanced PoW blocks and stakes weighting
 * The PoW subsidy halves every x64 multiply of PoW difficulty
 * The PoS interest halves every x64 multiply of PoS difficulty
-* Maximum PoW reward is 1000 coins
-* Maximum PoS reward is 100000000 coins
+
 
 
 Development process
