@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=scryptic
+Comment=scryptic P2P Cryptocurrency
+Comment[ru]=scryptic, P2P криптовалюта
+Comment[fr]=scryptic, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=scryptic, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/scryptic-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/scryptic80.xpm
+MimeType=x-scheme-handler/scryptic;
+Categories=Office;

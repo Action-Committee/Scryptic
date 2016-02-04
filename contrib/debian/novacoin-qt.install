@@ -1,0 +1,5 @@
+scryptic-qt usr/bin
+share/pixmaps/scryptic32.xpm usr/share/pixmaps
+share/pixmaps/scryptic80.xpm usr/share/pixmaps
+debian/scryptic-qt.desktop usr/share/applications
+debian/scryptic-qt.protocol usr/share/kde4/services/
